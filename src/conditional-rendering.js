@@ -1,5 +1,5 @@
 const ConditionalRendering = () => {
-  isLoggedIn: boolean = true;
+  const isLoggedIn: boolean = true;
 
   return (
     <>
